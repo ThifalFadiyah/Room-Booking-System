@@ -51,7 +51,6 @@
           
           <div class="simple-footer">
             Copyright &copy; ROOMING 2021 - Present. <br>
-            Powered by &copy; Stisla 2018
           </div>
         </div>
       </div>
